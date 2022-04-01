@@ -2,3 +2,9 @@
 + 매주마다 Completed Kaggle Competition을 공부하고 발표하는 형식
 + 오프라인 및 온라인으로 진행
 + 한학기 동안 진행
+
+## 학습목표
++ Colab의 사용법
+  + 마크다운을 통해서 깔끔한 프로젝트 정리
++ EDA 및 Feature Engineering 및 Data Preprocessing 실습
++ Machine learning Models 조사 및 실습
