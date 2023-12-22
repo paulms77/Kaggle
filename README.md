@@ -7,3 +7,5 @@ https://www.kaggle.com/paul77ms
 
 ## Kaggle Study
 4인 그룹으로 스터디 진행 
+
+## 충북인공지능교육
