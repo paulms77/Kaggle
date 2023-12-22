@@ -6,6 +6,7 @@ https://www.kaggle.com/paul77ms
 + Optiver Realized Volatility Prediction - Public Rank 259/3965
 
 ## Kaggle Study
-4인 그룹으로 스터디 진행 
+4인 그룹으로 오프라인 스터디 진행
 
 ## 충북인공지능교육
+2020.06.29~2020.08.21 (160시간 이수)
