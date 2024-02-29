@@ -1,5 +1,5 @@
 ## Kaggle Profile
-https://www.kaggle.com/paul77ms
+[프로필 이동](https://www.kaggle.com/paul77ms)
 
 + Kaggle Titanic - Machine Learning from Disaster - Top 3%
 + 충북인공지능교육 캐글 챌린지(chai) - 2th & use an algorithm
